@@ -11,11 +11,11 @@ Esto lo convierte en una herramienta util para el pentesting y el bugbounty, hac
 - Guarda los resultados en un archivo t_<DOMINIO>.txt.
 
 ## Requisitos:
-Antes de usar el script, asegúrate de tener instaladas las siguientes herramientas:
+Herramientas necesarias para ejecutar el script.
 
-1.  curl - Para realizar las consultas a crt.sh.
-2.  jq - Para procesar los datos en formato JSON.
-3.  sed y grep - Para filtrar y procesar las líneas.
+- curl - Para realizar las consultas a crt.sh.
+- jq - Para procesar los datos en formato JSON.
+- sed y grep - Para filtrar y procesar las líneas.
 
 ## Instalación:
 ```bash
