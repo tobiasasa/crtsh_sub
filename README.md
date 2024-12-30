@@ -1,4 +1,4 @@
-
+# CRTSH_SUB
 El script toma como entrada un dominio, consulta la base de datos de crt.sh, filtra y procesa los resultados para extraer subdominios únicos asociados, 
 ademas hace un filtro para eliminar comodines (*), y www en los subdominios encontrados. 
 Esto lo convierte en una herramienta util para el pentesting y el bugbounty, haciendolo una buena opción, para agregarlo al repositorio de herramientas de enumeración de subdominio convencionales.
