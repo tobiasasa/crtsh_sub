@@ -8,7 +8,7 @@ Esto lo convierte en una herramienta util para el pentesting y el bugbounty, hac
 - Procesa los resultados en formato JSON.
 - Elimina subdominios comodín (*.) y entradas no deseadas como www.
 - Ordena los subdominios y elimina duplicados.
-- Guarda los resultados en un archivo t_<DOMINIO>.txt.
+- Guarda los resultados en un archivo t_domain.com.txt.
 
 ## Requisitos:
 Herramientas necesarias para ejecutar el script.
