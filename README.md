@@ -21,6 +21,9 @@ Herramientas necesarias para ejecutar el script.
 ```bash
 sudo apt update && sudo apt install curl jq sed grep -y
 ```
+```bash
+git clone https://github.com/tobiasasa/crtsh_sub
+```
 
 ## Uso:
 ```bash
