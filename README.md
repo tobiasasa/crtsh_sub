@@ -13,9 +13,9 @@ Esto lo convierte en una herramienta util para el pentesting y el bugbounty, hac
 ## Requisitos:
 Antes de usar el script, asegúrate de tener instaladas las siguientes herramientas:
 
-1. curl - Para realizar las consultas a crt.sh.
-2. jq - Para procesar los datos en formato JSON.
-3. sed y grep - Para filtrar y procesar las líneas.
+1.  curl - Para realizar las consultas a crt.sh.
+2.  jq - Para procesar los datos en formato JSON.
+3.  sed y grep - Para filtrar y procesar las líneas.
 
 ## Instalación:
 ```bash
